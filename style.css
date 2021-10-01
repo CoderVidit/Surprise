@@ -1,0 +1,28 @@
+body{
+    background-image: url('dOTS.jpg');
+    
+    background-size: 1000px;
+    background-repeat: repeat;
+    background-position: 10px;
+    
+}
+img{
+    width:800px;
+    height:390px;
+}
+video{
+    height:280px;
+    width:500px;
+    border-radius: 30px;
+    border:20px solid deeppink;
+}
+head{
+    height:10px;
+}
+#gif{
+    height:280px;
+    width:500px;
+    border-radius: 30px;
+    border:20px solid deeppink;
+}
+}
